@@ -13,7 +13,7 @@ aside {
     width: 20%;
     height: 100%;
     position: fixed;
-    background-color: #4f5256;
+    background-color: #3e4042;
 }
 
 .aside__header {
@@ -88,7 +88,7 @@ main p {
     padding: 20px;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 800px) {
     aside {
         width: 100%;
         height: auto;
