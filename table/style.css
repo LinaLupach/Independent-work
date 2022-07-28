@@ -4,8 +4,8 @@ body {
 
 table {
     width: 100%;
-    border-radius: 10px;
-    letter-spacing: 1px;
+    border-radius: 20px;
+    letter-spacing: 2px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -20,7 +20,7 @@ table {
 }
 
 .sun-radius {
-    border-radius: 0px 10px 0px 0;
+    border-radius: 5px 10px 0px 0;
 }
 
 th {
@@ -81,13 +81,13 @@ td {
 }
 
 .salmon-color {
-    background-color: #beff99;
+    background-color: #ffdd99;
 }
 
 .blue-color {
-    background-color: #ffde85;
+    background-color: #85ffac;
 }
 
 .pink-color {
-    background-color: #e69781;
+    background-color: #81a8e6;
 }
