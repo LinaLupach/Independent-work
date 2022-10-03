@@ -21,7 +21,7 @@ h3:target {
 
 a {
     text-decoration: none;
-    color: blue;
+    color: rgb(149, 0, 255);
 }
 
 a:hover {
@@ -29,20 +29,20 @@ a:hover {
 }
 
 a:active {
-    color: grey;
+    color: rgb(159, 159, 159);
 }
 
 .links {
     display: inline-block;
     background-color: white;
     height: 175px;
-    width: 170px;
+    width: 175px;
     border: solid 1px;
 }
 
 .backgorund-links {
     background-color: grey;
-    padding: 20px;
+    padding: 25px;
     border-radius: 25px;
     display: inline-block;
     border: solid 3px;
